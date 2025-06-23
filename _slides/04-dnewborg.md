@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-github-dnewborg-caption
+new caption - dnewborg
 
 ![poptocat](https://octodex.github.com/images/poptocat.png)
 {: .center}
